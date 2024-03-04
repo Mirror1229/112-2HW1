@@ -15,6 +15,9 @@
 
 ## 說明程式與內容
 利用add,commit,push，保存在倉庫跟伺服器端。
+![Alt text](image.png) 掛號
+![Alt text](image-1.png) 掛號成功
+![Alt text](image-2.png) 取消掛號
 ## 個人認為完成作業須具備觀念
 
 利用add把新增或修改的東西標示出來，之後用commit推到倉庫，再利用push把倉庫的推到伺服器端。
